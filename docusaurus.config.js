@@ -3,12 +3,12 @@ module.exports = {
   title: 'React Native Receive Sharing Intent',
   tagline: 'A React Native plugin that enables React Native apps to receive sharing photos, videos, text, urls or any other file types from another app.',
   url: 'https://ajith-ab.github.io',
-  baseUrl: '/react-native-receive-sharing-intent-docs/',
+  baseUrl: '/react-native-receive-sharing-intent-doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ajith-ab', // Usually your GitHub org/user name.
-  projectName: 'react-native-receive-sharing-intent-docs', // Usually your repo name.
+  projectName: 'react-native-receive-sharing-intent-doc', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'React Native Receive Sharing Intent',
@@ -69,7 +69,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://ajith-ab.github.io/react-native-receive-sharing-intent-docs/',
+            'https://ajith-ab.github.io/react-native-receive-sharing-intent-doc/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

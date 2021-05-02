@@ -45,12 +45,11 @@ export default function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-        
       <HomepageHeader />
       <main>
       <AdSense.Google
-          client='ca-pub-3236992787867833'
-          slot='1686195266'
+          client='ca-pub-6959248551010269'
+          slot='7895558233'
           style={{ display: 'block' }}
           format='auto'
           responsive='true'
